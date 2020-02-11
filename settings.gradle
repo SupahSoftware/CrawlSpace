@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':crawlspace'
 rootProject.name='CrawlSpaceSample'
